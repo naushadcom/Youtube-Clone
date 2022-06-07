@@ -17,7 +17,7 @@ It is a clone of youtube where you can watch online videos as you wish.
 ## ScreenShots
 
 <h2>Landing Page</h2>
-<img src="![youtube](https://user-images.githubusercontent.com/99961853/172372217-b137ec67-782d-4b29-92ab-347732c82dbc.png)"/>
+<img src="file:///C:/Users/17nau/Desktop/Assi_rec/Portfolio-master/src/assets/youtube.png"/>
 
 <h2>Single Video Page</h2>
 <img src="./screenshots/imageedit_3_7496333559.png"/>
