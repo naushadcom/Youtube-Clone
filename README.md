@@ -1,7 +1,9 @@
 # Youtube-Clone
+## Deployed link: https://gorgeous-speculoos-ba3a71.netlify.app/
 
 
-# Youtube
+
+## Youtube
 
 It is a clone of youtube where you can watch online videos as you wish.
 
@@ -22,6 +24,6 @@ It is a clone of youtube where you can watch online videos as you wish.
 
 
 <h2>Single Video Page</h2>
-
+<img src="https://github.com/naushadcom/Youtube-Clone/blob/main/Youtube%20Clone/pic/Screenshot%20(1110).png" />
 
 
