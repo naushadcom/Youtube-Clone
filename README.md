@@ -17,7 +17,7 @@ It is a clone of youtube where you can watch online videos as you wish.
 ## ScreenShots
 
 <h2>Landing Page</h2>
-<img src="[https://github.com/ribhar/PharmEasy-clone/blob/main/assests/product.PNG](https://github.com/naushadcom/Youtube-Clone/blob/main/Youtube%20Clone/pic/Screenshot%20(1109).png)" />
+<img src="https://github.com/naushadcom/Youtube-Clone/blob/main/Youtube%20Clone/pic/Screenshot%20(1109).png" />
 
 
 
